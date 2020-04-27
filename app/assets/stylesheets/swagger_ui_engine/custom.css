@@ -31,3 +31,8 @@ a {
 .swagger-section .swagger-ui-wrap a {
 color: #4a90e2;  
 }
+
+.swagger-section .swagger-ui-wrap p {
+    padding: 13px 0;
+    color: #888;
+}
