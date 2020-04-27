@@ -21,7 +21,7 @@
 .logo_title {
     text-decoration-line: none;
     font-size: 32px;
-    color: white;
+    color: white !important;
 }
 
 a {
