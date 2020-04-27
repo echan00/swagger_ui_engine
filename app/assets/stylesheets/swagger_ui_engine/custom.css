@@ -13,3 +13,17 @@
 .swagger-section #explore, .swagger-section #auth_container .authorize__btn{
   background-color: #4a90e2;
 }
+
+.swagger-section #header{
+  padding:  22px 14px 23px 14px;
+}
+
+.logo_title {
+    text-decoration-line: none;
+    font-size: 32px;
+    color: white;
+}
+
+a {
+  color: #4a90e2;
+}
