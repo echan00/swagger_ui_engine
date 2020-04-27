@@ -5,3 +5,11 @@
 .swagger-return-link {
   padding-bottom: 30px;
 }
+
+.swagger-section #header{
+  background-color: #252525;
+}
+
+.swagger-section #explore, .swagger-section #auth_container .authorize__btn{
+  background-color: #4a90e2;
+}
