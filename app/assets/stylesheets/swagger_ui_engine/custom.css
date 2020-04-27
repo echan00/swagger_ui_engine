@@ -27,3 +27,7 @@
 a {
   color: #4a90e2;
 }
+
+.swagger-section .swagger-ui-wrap a {
+color: #4a90e2;  
+}
