@@ -2,6 +2,6 @@
  *= require ./lib/typography.css
  *= require ./lib/reset.css
  *= require ./lib/screen.css
- *= require ./blue.css
-*= require ./custom.css
+
+ *= require ./custom.css
  */
