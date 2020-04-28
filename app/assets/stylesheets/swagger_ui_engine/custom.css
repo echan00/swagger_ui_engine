@@ -36,3 +36,7 @@ color: #4a90e2;
     padding: 13px 0;
     color: #888;
 }
+
+.swagger-section .swagger-ui-wrap p{
+  font-size: 18px;
+}
