@@ -12,6 +12,7 @@ module SwaggerUiEngine
         swagger_ui_engine/lib/print.css
         swagger_ui_engine/custom.css
         swagger_ui_engine/print.css
+        swagger_ui_engine/blue.css
         swagger_ui_engine/logo_small.png
         swagger_ui_engine/favicon-32x32.png
         swagger_ui_engine/favicon-16x16.png
